@@ -21,5 +21,10 @@ RUN if [ "${INSTALL_NODE}" = "true" ]; then su vscode -c "source /usr/local/shar
 # [Optional] Uncomment this line to install global node packages.
 # RUN su vscode -c "source /usr/local/share/nvm/nvm.sh && npm install -g <your-package-here>" 2>&1
 
+# Update the OS
+# Might add a few min to the container spin up
+# Comment out if you want to get started faster
+RUN apt-get update && apt-get install vim -y && apt-get upgrade
+
 # Testing out installing cadCAD
 RUN pip3 install cadCAD cadCAD_diagram graphviz jupyterlab matplotlib plotly_express
