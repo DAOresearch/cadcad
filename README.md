@@ -33,4 +33,4 @@ If you're working with [Jupyter notebook](https://jupyter-notebook.readthedocs.i
 
 ## Process
 
-The process of creating a cadCAD model is both an art and a science. That being said, there are a few key steps that are generally applicable:
+The process of creating a cadCAD model is both an art and a science. That being said, https://www.cadcad.education/ does a great job of explaining the basics. There's a review of all the python concepts you'll need to know, the components of a cadCAD systems, and examples of how to put it all together into a model. At the time of writing the course is free. Highly recommend checking it out. 
