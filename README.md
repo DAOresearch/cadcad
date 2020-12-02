@@ -6,7 +6,7 @@
 
 ## What is cadCAD?
 
-cadCAD is complex adaptive dynamics in computer aided design. It helps in designing, understanding, and optimizing complex systems. It's open source, easy to integrate into data science workflows, and allows you to work with a large variety of system types across many industries.
+[cadCAD](https://cadcad.org/) stands for: complex adaptive dynamics in computer aided design. It helps in designing, understanding, and optimizing complex systems. It's open source, easy to integrate into data science workflows, and allows you to work with a large variety of system types across many industries.
 
 You can learn more about why cadCAD exists and what it does here:
 
