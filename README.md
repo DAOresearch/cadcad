@@ -6,7 +6,7 @@
 
 ## What is cadCAD?
 
-cadCAD is complex adaptive dynamics in computer aided design. It helps in designing, understanding, and optimizing complex systems. It's open source, easy to integrate into data science workflows, and allows you to work with a large variety of system types across many industries.
+[cadCAD](https://cadcad.org/) stands for: complex adaptive dynamics in computer aided design. It helps in designing, understanding, and optimizing complex systems. It's open source, easy to integrate into data science workflows, and allows you to work with a large variety of system types across many industries.
 
 You can learn more about why cadCAD exists and what it does here:
 
@@ -33,4 +33,4 @@ If you're working with [Jupyter notebook](https://jupyter-notebook.readthedocs.i
 
 ## Process
 
-The process of creating a cadCAD model is both an art and a science. That being said, there are a few key steps that are generally applicable:
+The process of creating a cadCAD model is both an art and a science. That being said, https://www.cadcad.education/ does a great job of explaining the basics. There's a review of all the python concepts you'll need to know, the components of a cadCAD systems, and examples of how to put it all together into a model. At the time of writing the course is free. Highly recommend checking it out. 
