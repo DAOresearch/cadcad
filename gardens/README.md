@@ -28,12 +28,17 @@ You can learn more about Gardens [here](https://forum.1hive.org/t/gardens-overvi
 
 ## Process
 
-To start we're going to sketch out a differential specification for the Gardens system. There are (probably out of date) examples of the Gardens diff spec as `.png` and `.fig` files here in the README. You can view the latest version [here](https://www.figma.com/file/ioScpaacnmtmnjCgdq77KK/Gardens-Diff-Spec-detailed?node-id=0%3A1) on Figma.
+To start we're going to sketch out a [cadCAD differential specification](https://community.cadcad.org/t/differential-specification-syntax-key/31) for the Gardens system. There are (probably out of date) examples of the Gardens diff spec as `.png` and `.fig` files here in the README. You can view the latest version [here](https://www.figma.com/file/ioScpaacnmtmnjCgdq77KK/Gardens-Diff-Spec-detailed?node-id=0%3A1) on Figma.
 
-Then we're going to select subsets of the system (such as the environment market sentiment model) to build independently. This has two benefits. First, we'll be able to ensure the the model works on it's own before adding in more complexity. Second, the models we build will also be able to be composed into other systems as well. This will (hopefully) benefit other cadCAD modelers as well as ourselves. Eventually this will create a library of components that anyone can pull off the shelf and combine to sketch out a model. Just like with software libraries, this will greatly reduce the time required to design and explore new cadCAD models.
+Then we're going to select subsets of the system (such as the environment market sentiment model) to build independently. This has two benefits:
+
+- First, we'll be able to ensure the the model works on it's own before adding in more complexity.
+- Second, the models we build will also be able to be composed into other systems as well. This will (hopefully) benefit other cadCAD modelers as well as ourselves. Eventually this will create a library of components that anyone can pull off the shelf and combine to sketch out a model. Just like with software libraries, this will greatly reduce the time required to design and explore new cadCAD models.
 
 <br />
 
 ## Market Sentiment Model
 
 This is a simple model that cycles between optimism (greed) and pessimism (fear) on a regular basis. This signal could be used to inform agent decision in a larger model.
+
+<br />
