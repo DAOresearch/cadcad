@@ -6,6 +6,8 @@
 
 ![Gardens Diff Spec WIP](gardens_diff_spec_wip.png)
 
+> WIP cadCAD differential spec of Gardens.
+
 <br />
 
 ## Overview
