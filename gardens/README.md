@@ -1,6 +1,6 @@
 # Gardens cadCAD Sketch
 
-> An exploration of [1Hive's Gardens template](https://forum.1hive.org/t/gardens-overview/32) following the [cadCAD design process](https://community.cadcad.org/t/putting-cadcad-in-context/19).
+> An exploration of [1Hive's Gardens template](https://forum.1hive.org/t/gardens-overview/32) following the [cadCAD design process](https://medium.com/@stephen_yo/a-token-engineering-process-16687f3b9a74).
 
 <br />
 
