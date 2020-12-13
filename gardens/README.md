@@ -4,7 +4,7 @@
 
 <br />
 
-![Gardens Diff Spec Draft](gardens-diff-spec-draft.png)
+![Gardens Diff Spec WIP](gardens_diff_spec_wip.png)
 
 <br />
 
